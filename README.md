@@ -1,2 +1,3 @@
 # Supply-Chain-Optimizer
 AI-driven time series forecasting for supply chain management.
+\n## Additional Resources\n\n### Documentation\n- [Getting Started Guide](docs/getting-started.md)\n- [API Documentation](docs/api.md)\n- [Contributing Guidelines](CONTRIBUTING.md)\n\n### Community\n- [Discord Community](https://discord.gg/example)\n- [Stack Overflow Tag](https://stackoverflow.com/questions/tagged/project-name)\n\n### Related Projects\n- [Project Ecosystem](docs/ecosystem.md)\n- [Integration Examples](examples/)\n
